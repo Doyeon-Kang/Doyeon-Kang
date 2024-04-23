@@ -26,19 +26,70 @@
 
 <table>
   <tr>
-    <th>Date</th>
-    <th>Award</th>
-    <th>Description</th>
+    <th>수상연도</th>
+    <th>대회명</th>
+    <th>수상</th>
   </tr>
   <!-- Add your awards here -->
-  <!-- Example:
   <tr>
-    <td>2024</td>
-    <td>Best Developer</td>
-    <td>Awarded for outstanding contribution in the field of web development.</td>
+    <td>2022</td>
+    <td>2022-2 SW 캡스톤디자인 경연대회</td>
+    <td>금상</td>
   </tr>
-  -->
+  <tr>
+    <td></td>
+    <td>2022-2 디지털인문예술 전시회</td>
+    <td>대상</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Learning portfolio 공모전</td>
+    <td>입상</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>오픈소스 웹개발 해커톤</td>
+    <td>장려상</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>SW중심대학 소중인의 생활탐구(브이로그) 영상 공모전</td>
+    <td>장려상</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>복수전공 수기 공모전</td>
+    <td>우수상</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>2022-1 디지털인문예술 전시회</td>
+    <td>대상</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>디지털인문예술 전시회 포스터 공모전</td>
+    <td>당선</td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>중국학과 CI 디자인 공모전</td>
+    <td>최우수상</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>디지털리터러시 특강 포스터 디자인 공모전</td>
+    <td>우수상</td>
+  </tr>
+  <tr>
+    <td>2019</td>
+    <td>심비우스북클럽 우수 북클럽 선정</td>
+    <td></td>
+  </tr>
+ 
 </table>
 
-## 📺 YouTube Channel
-Check out my [YouTube channel](https://www.youtube.com/channel/UCZaEOSm9geNLUVZMcTZQa0w) for more on web development and tech insights.
+## 📺 My Channel
+💬 [Notion](https://www.notion.so/dobby-workplace/4da94dde88e24bf9b91a1fc1ddcc07b0?pvs=4)
+🎥 [YouTube channel](https://www.youtube.com/channel/UCZaEOSm9geNLUVZMcTZQa0w)
+📸 [Instagram](https://www.instagram.com/lazy_y.0?igsh=MXJkNGFrNGtrZHFqdw%3D%3D&utm_source=qr)
