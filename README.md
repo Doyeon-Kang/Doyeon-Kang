@@ -6,10 +6,14 @@
 👋 Hi there! I’m **Dobby**, a designer turned developer with a passion for web development and continuous learning. Welcome to my GitHub!
 
 ## 🎓 Education
-- **Top Graduate**, Hallym University
+- **Top Graduate**, Hallym University, Summer 2023
+- **Major**: Content IT
+- **Double Major**: Digital Humanities and Arts
 
 ## 💼 Experience
-- **Full Stack Web Developer** (1 Year Experience)
+- (주) 지키다 재직 중_2023.05 ~ 현재
+- (주) 씨즈소프트 근로장학생 활동_2021.01~06(6개월)
+- (주) 진저티프로젝트 인턴 활동_2020.09~12(4개월)
 
 ## 🛠 Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
