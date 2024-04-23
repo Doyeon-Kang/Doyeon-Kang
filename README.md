@@ -1,6 +1,6 @@
 # Hello, I'm Dobby.
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+![GitHub followers](https://img.shields.io/github/followers/Doyeon-Kang?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZaEOSm9geNLUVZMcTZQa0w?style=social)
 
 👋 Hi there! I’m **Dobby**, a designer turned developer with a passion for web development and continuous learning. <br/>Welcome to my GitHub!
