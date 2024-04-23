@@ -1,4 +1,4 @@
-# Dobby (강도연)
+# Hello, I'm Dobby.
 
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCZaEOSm9geNLUVZMcTZQa0w?style=social)
