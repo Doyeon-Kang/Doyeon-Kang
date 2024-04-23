@@ -22,7 +22,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🏆 Achievements
-- *To be updated*
+<details>
+<summary>Click to expand!</summary>
 
 <table>
   <tr>
@@ -30,7 +31,6 @@
     <th>대회명</th>
     <th>수상</th>
   </tr>
-  <!-- Add your awards here -->
   <tr>
     <td>2022</td>
     <td>2022-2 SW 캡스톤디자인 경연대회</td>
@@ -86,10 +86,10 @@
     <td>심비우스북클럽 우수 북클럽 선정</td>
     <td></td>
   </tr>
- 
 </table>
+</details>
 
-## 📺 My Channel
-💬 [Notion](https://www.notion.so/dobby-workplace/4da94dde88e24bf9b91a1fc1ddcc07b0?pvs=4)
-🎥 [YouTube channel](https://www.youtube.com/channel/UCZaEOSm9geNLUVZMcTZQa0w)
-📸 [Instagram](https://www.instagram.com/lazy_y.0?igsh=MXJkNGFrNGtrZHFqdw%3D%3D&utm_source=qr)
+## 📺 My Channels
+- 💬 [Notion](https://www.notion.so/dobby-workplace/4da94dde88e24bf9b91a1fc1ddcc07b0?pvs=4)
+- 🎥 [YouTube channel](https://www.youtube.com/channel/UCZaEOSm9geNLUVZMcTZQa0w)
+- 📸 [Instagram](https://www.instagram.com/lazy_y.0?igsh=MXJkNGFrNGtrZHFqdw%3D%3D&utm_source=qr)
